@@ -1,0 +1,19 @@
+{
+    "name": "talib/starter-plugin",
+    "description": "simple starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "TALIB4590",
+            "email": "abutalib4590@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
